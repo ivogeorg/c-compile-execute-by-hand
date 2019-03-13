@@ -1,5 +1,5 @@
 //#include <stdio.h>
-#include "invert.h"
+#include "negate.h"
 
 static const ARRAY_SIZE = 5;
 
