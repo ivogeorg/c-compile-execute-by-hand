@@ -1,7 +1,7 @@
 //#include <stdio.h>
 #include "negate.h"
 
-static const ARRAY_SIZE = 5;
+static const int ARRAY_SIZE = 5;
 
 int main() {
     int array[] = { 1, -2, 5, -6, 2 };
